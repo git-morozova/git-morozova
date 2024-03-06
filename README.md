@@ -21,8 +21,15 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="auto" height="40"  alt="javascript"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="auto" height="40"  alt="php"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="auto" height="40"  alt="mysql"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  width="auto" height="40"  alt="bootstrap"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg"  width="auto" height="40"  alt="maya"/>                 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  width="auto" height="40"  alt="bootstrap"/>        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  width="auto" height="40"  alt="vscode"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"  width="auto" height="40"  alt="wordpress"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg"  width="auto" height="40"  alt="dreamweaver"/>  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"  width="auto" height="40"  alt="gitlab"/>           
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"  width="auto" height="40"  alt="filezilla"/>         
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  width="auto" height="40"  alt="premierepro"/>         
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"  width="auto" height="40"  alt="slack"/>           
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg"  width="auto" height="40"  alt="maya"/>   
 </div>
 
 <h2 align="left">A minute for relax</h2>  
