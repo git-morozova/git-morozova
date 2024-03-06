@@ -8,8 +8,8 @@
 
 <h2 align="left">My stats</h2>
 <div>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-morozova&theme=github" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-morozova&theme=github" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-morozova&theme=github" width="561"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-morozova&theme=github"  width="273"/>
 </div>
         
 <h2 align="left">My tools</h2>
