@@ -2,10 +2,10 @@
 <br> 🔭 I’m currently a freelancer
 <br> 🌱 I’m currently learning React and TypeScript
 <br> ✉  Huge experience in e-mail: code, A/B tests, campaigns, trends
-<br> 🎓 Education: university degree
-<br> 🌍 Languages: English (upper-intermediate)
+<br> 🎓 Education: University degree
+<br> 🌍 Language: English (upper-intermediate)
 <br> 📫 How to reach me: 3d.morozova@gmail.com
-<br> ⚡ Fun fact: I'm also a former rock-star
+<br> ⚡ Fun fact: I'm also a former rock star
 
 <h2 align="left">My stats</h2>
 <div>
