@@ -22,24 +22,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="auto" height="40"  alt="php"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="auto" height="40"  alt="mysql"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"  width="auto" height="40"  alt="bootstrap"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg"  width="auto" height="40"  alt="maya"/>
-        
-            
-            
-            
-          
-          
-          
-          
-          
-          
-          
-          
-          
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg"  width="auto" height="40"  alt="maya"/>                 
 </div>
 
 <h2 align="left">A minute for relax</h2>  
 <div>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quotes Card" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quotes Card" width="530"/>
         <img src="https://readme-jokes.vercel.app/api?theme=graywhite" alt="Jokes Card" />
 </div>
