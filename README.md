@@ -1,16 +1,14 @@
-### Hi there 👋
+## Full stack developer (Junior)
+- 🔭 I’m currently a freelancer
+- 🌱 I’m currently learning React and TypeScript
+- 📫 How to reach me: 3d.morozova@gmail.com
+- ⚡ Fun fact: I'm also a former rock-star
 
-<!--
-**git-morozova/git-morozova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-morozova&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-morozova&theme=github)
 
-Here are some ideas to get you started:
+## My tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        
+              
