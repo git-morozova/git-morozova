@@ -11,6 +11,8 @@
 <div>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-morozova&theme=github" width="561"/>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=git-morozova&theme=github"  width="273"/>
+        <img src="https://komarev.com/ghpvc/?username=git-morozova"/>
+       
 </div>
         
 <h2 align="left">My tools</h2>
