@@ -31,6 +31,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg"  width="auto" height="40"  alt="filezilla"/>         
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"  width="auto" height="40"  alt="premierepro"/>         
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"  width="auto" height="40"  alt="slack"/>           
+        <img src="https://knowperfectly.com/images/onlineshcool/475992/19000-shkola-tildy-pro2.png"  width="auto" height="40"  alt="tilda"/>      
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg"  width="auto" height="40"  alt="maya"/>   
 </div>
 
