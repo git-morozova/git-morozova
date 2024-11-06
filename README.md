@@ -1,5 +1,5 @@
-<h1 align="center">Fullstack developer (student)</h1>
-<br> 🔭 I’m currently a trainee in S1 digital agency
+<h1 align="center">Fullstack developer</h1>
+<br> 🔭 Now I’m a freelancer
 <br> 🌱 I’m currently learning React and TypeScript
 <br> ✉  Huge experience in e-mail: code, A/B tests, campaigns, trends
 <br> 🎓 Education: University degree
