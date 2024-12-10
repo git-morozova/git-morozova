@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack developer</h1>
+<h1 align="center">Frontend developer</h1>
 <br> 🔭 Now I’m a freelancer
 <br> 🌱 I’m currently learning React and TypeScript
 <br> ✉  Huge experience in e-mail: code, A/B tests, campaigns, trends
