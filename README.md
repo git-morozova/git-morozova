@@ -4,7 +4,7 @@
   <a href="https://t.me/web_marta" target="blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/3d-morozova/" target="blank">
+  <a href="https://www.linkedin.com/in/morozova-dev/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>          
 </div>
